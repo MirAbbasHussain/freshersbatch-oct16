@@ -1,3 +1,3 @@
-this is my html assignment folder and i like fruits.
+this is my html assignment folder
 abc
 xyz
